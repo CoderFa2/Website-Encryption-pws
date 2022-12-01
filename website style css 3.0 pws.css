@@ -1,0 +1,16 @@
+.container {
+  max-width: 840px;
+  margin: 0 auto;
+  } 
+
+p {
+  border: 2px solid powderblue;
+  margin: 50px;
+}
+
+.fun {
+border:0;
+padding: 0,5em 1.em;
+font-size: 2rem;
+background-image: linear-gradient(45deg, red, blue)
+}
